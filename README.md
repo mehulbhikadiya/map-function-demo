@@ -1,2 +1,2 @@
-# map-function-demo
-This is my first project on GitHub
+# Fetchdata-API-Map-function
+Fetchdata to APIusing map function
